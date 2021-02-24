@@ -1,4 +1,4 @@
-#Inventory Management System Requirements (Require Documentation)
+# Inventory Management System Requirements (Require Documentation)
 Design an Inventory Management System to keep track of all products, vendors, customers and orders. 
 The system should be able to track what products are present in the inventory and what their current quantity is. 
 Whenever we sell products to our customers, we should record the details in our system. If we are running out of stock of any product, 
